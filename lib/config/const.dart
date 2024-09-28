@@ -26,9 +26,16 @@ const title2 = TextStyle(
   fontWeight: FontWeight.bold,
 );
 
-const text = TextStyle(
+const label = TextStyle(
   color: Colors.black,
   fontSize: 25,
+  fontFamily: 'Inter',
+  fontWeight: FontWeight.normal,
+);
+
+const text = TextStyle(
+  color: Colors.black,
+  fontSize: 18,
   fontFamily: 'Inter',
   fontWeight: FontWeight.normal,
 );

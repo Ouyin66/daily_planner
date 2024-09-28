@@ -1,0 +1,17 @@
+{
+    "task": [
+        {
+            "id": 1,
+            "user": 1,
+            "day": "28/09/2024",
+            "title": "Làm bài kiểm tra chất lượng",
+            "startTime": "08:00",
+            "endTime": "17:00",
+            "location": "Online",
+            "preside": "Hữu Nghĩa",
+            "note": "Hoàn thành trước 17:00",
+            "status": "Thực hiện",
+            "approver": "Hữu Nghĩa"
+        }
+    ]
+}
