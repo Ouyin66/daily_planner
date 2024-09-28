@@ -71,6 +71,7 @@ class _LoginWidgetState extends State<LoginWidget> {
         padding: const EdgeInsets.fromLTRB(16, 60, 16, 10),
         child: Center(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
                 "Đăng nhập",
@@ -144,7 +145,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                 onChanged: null,
               ),
               const SizedBox(
-                height: 30,
+                height: 50,
               ),
               SizedBox(
                 width: double.infinity,
